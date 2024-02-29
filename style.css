@@ -21,3 +21,29 @@
     margin: 0 16px;
     font-size: 24px;
 }
+
+.escola{
+    background-color: black;
+    background-image: color black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
